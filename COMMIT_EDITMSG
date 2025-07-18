@@ -1,0 +1,7 @@
+Create interactive dashboards and reports with uploaded data
+
+Initial commit of Streamlit-based data analytics tool with file upload, dashboard builder, reporting, and settings pages using pandas, plotly, and utils modules.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 11e74c9b-d6f1-4919-ae42-7fd7d1535889
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/3e769af5-4b97-44ea-9100-e9f4de0251b7/3ec98cf8-b0a7-4a41-a13e-fcbb991db127.jpg
