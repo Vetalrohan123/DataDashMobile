@@ -39,19 +39,6 @@
 
 ---
 
-## 📦 Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/datadashmobile.git
-   cd datadashmobile
-2. Install dependencies:
-   bash
-   npm install
-3.Run the app
-   bash
-   npm start
-
    
 Development Status
 🚧 This project is under active development. Expect regular updates and improvements.
